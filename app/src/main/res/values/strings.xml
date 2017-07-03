@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <!-- General -->
+    <string name="request_failed">Request Failed</string>
+    <string name="rto">Request Time Out</string>
+    <string name="no_internet">No Internet Connection</string>
+
+    <!-- Main -->
+    <string name="image_poster">Image Poster</string>
+    <string-array name="category_arr">
+        <item>Popular</item>
+        <item>Top Rated</item>
+    </string-array>
+
+    <!-- Detail -->
+    <string name="image_thumbnail">Image Thumbnail</string>
+    <string name="movie_detail">Movie Detail</string>
+    <string name="of_ten">%1$s/10</string>
+</resources>
